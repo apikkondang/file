@@ -11,6 +11,7 @@
         else if(linkAN == "wasmin" || linkAN == "a007") linkTrackAN = "https://porrect-loculying.com/ab09b544-30c4-40f2-b11f-960dc75ad70c"+parameter
         else if(linkAN == "asep" || linkAN == "a008") linkTrackAN = "https://porrect-loculying.com/2cc85602-8e64-4dac-b496-eb2b36f0f4ed"+parameter
         else if(linkAN == "darsono" || linkAN == "a010") linkTrackAN = "https://porrect-loculying.com/acef0149-56fb-4922-a157-a7e70e9c8018"+parameter
+        else if(linkAN == "dirga" || linkAN == "a011") linkTrackAN = "https://porrect-loculying.com/16e9a72e-eddb-47bd-984f-c249ef25f889"+parameter        
         else if(linkAN == "bmg" || linkAN == "a009") linkTrackAN = "linkbmg"+parameter
         else if(linkAN == "jeni" || linkAN == "j001") linkTrackAN = "https://porrect-loculying.com/7cd8a0e8-efd2-4acb-9cf9-d4665cc1c3bb"+parameter            
         else if(linkAN == "alkhalifi" || linkAN == "j002") linkTrackAN = "https://porrect-loculying.com/e691f605-58b1-4da2-a4ed-e4849d05872b"+parameter            
