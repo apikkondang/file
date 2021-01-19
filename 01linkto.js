@@ -2,7 +2,7 @@
 //START build link #GetURLlinkuntuk
         var linkAN = linkuntuk;
 
-        if(linkAN == "apik" || linkAN == "a001") linkTrackAN = "https://porrect-loculying.com/2cc854f0-0892-4b6c-9051-ed2d40c754fb"+parameter
+        if(linkAN == "apik" || linkAN == "a001") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/APIK"+parameter
         else if(linkAN == "trisno" || linkAN == "a002") linkTrackAN = "https://porrect-loculying.com/80c928b1-d173-4521-93a3-70b8b1b15e37"+parameter
         else if(linkAN == "vae" || linkAN == "a003") linkTrackAN = "https://porrect-loculying.com/8895d5c1-a5f5-487b-9433-3a185edfd9f1"+parameter
         else if(linkAN == "nurdin" || linkAN == "a004") linkTrackAN = "https://porrect-loculying.com/08ca641c-6e41-48bf-acc5-da9742c6a0ca"+parameter
