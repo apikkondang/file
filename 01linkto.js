@@ -3,16 +3,16 @@
         var linkAN = linkuntuk;
 
         if(linkAN == "apik" || linkAN == "a001") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/APIK"+parameter
-        else if(linkAN == "trisno" || linkAN == "a002") linkTrackAN = "https://porrect-loculying.com/80c928b1-d173-4521-93a3-70b8b1b15e37"+parameter
-        else if(linkAN == "vae" || linkAN == "a003") linkTrackAN = "https://porrect-loculying.com/8895d5c1-a5f5-487b-9433-3a185edfd9f1"+parameter
-        else if(linkAN == "nurdin" || linkAN == "a004") linkTrackAN = "https://porrect-loculying.com/08ca641c-6e41-48bf-acc5-da9742c6a0ca"+parameter
-        else if(linkAN == "janhadi" || linkAN == "a005") linkTrackAN = "https://porrect-loculying.com/62c053e1-ae23-4eb0-8475-24ba18d7d2ba"+parameter
-        else if(linkAN == "rizki" || linkAN == "a006") linkTrackAN = "https://porrect-loculying.com/4e8c61cb-33b1-4314-87a1-b0c20b2921de"+parameter
-        else if(linkAN == "wasmin" || linkAN == "a007") linkTrackAN = "https://porrect-loculying.com/ab09b544-30c4-40f2-b11f-960dc75ad70c"+parameter
-        else if(linkAN == "asep" || linkAN == "a008") linkTrackAN = "https://porrect-loculying.com/2cc85602-8e64-4dac-b496-eb2b36f0f4ed"+parameter
-        else if(linkAN == "darsono" || linkAN == "a010") linkTrackAN = "https://porrect-loculying.com/acef0149-56fb-4922-a157-a7e70e9c8018"+parameter
-        else if(linkAN == "dirga" || linkAN == "a011") linkTrackAN = "https://porrect-loculying.com/16e9a72e-eddb-47bd-984f-c249ef25f889"+parameter        
-        else if(linkAN == "bmg" || linkAN == "a009") linkTrackAN = "linkbmg"+parameter
+        else if(linkAN == "trisno" || linkAN == "a002") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/TRISNO"+parameter
+        else if(linkAN == "bmg" || linkAN == "a003") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/BMG"+parameter
+        else if(linkAN == "nurdin" || linkAN == "a004") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/NURDIN"+parameter
+        else if(linkAN == "janhadi" || linkAN == "a005") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/JANHADI"+parameter
+        else if(linkAN == "rizki" || linkAN == "a006") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/RIZKI"+parameter
+        else if(linkAN == "wasmin" || linkAN == "a007") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/WASMIN"+parameter
+        else if(linkAN == "asep" || linkAN == "a008") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/ASEP"+parameter
+        else if(linkAN == "darsono" || linkAN == "a010") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/DARSONO"+parameter
+        else if(linkAN == "dirga" || linkAN == "a011") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/DIRGA"+parameter        
+        else if(linkAN == "ENDgakGROUP" || linkAN == "a009") linkTrackAN = "linkGAKend"+parameter
         else if(linkAN == "jeni" || linkAN == "j001") linkTrackAN = "https://porrect-loculying.com/7cd8a0e8-efd2-4acb-9cf9-d4665cc1c3bb"+parameter            
         else if(linkAN == "alkhalifi" || linkAN == "j002") linkTrackAN = "https://porrect-loculying.com/e691f605-58b1-4da2-a4ed-e4849d05872b"+parameter            
         else if(linkAN == "indra" || linkAN == "j003") linkTrackAN = "https://porrect-loculying.com/80ad3d44-c21c-49a7-8825-e23605282c17"+parameter
