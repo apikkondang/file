@@ -20,6 +20,7 @@ else if(linkAN == "rio" || linkAN == "a015") linkTrackAN = "https://dashboard.sp
 else if(linkAN == "dodi" || linkAN == "a016") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/DODI"+parameter
 else if(linkAN == "arif" || linkAN == "a017") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/ARIF"+parameter
 else if(linkAN == "bagus" || linkAN == "a018") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/BAGUS"+parameter
+else if(linkAN == "verel" || linkAN == "a019") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/VEREL"+parameter
 else if(linkAN == "NAMAorangBARUtanpaSpasiHURUFkecilSEMUA" || linkAN == "kode0000") linkTrackAN = "LINKtrackingORANGbaru"+parameter
 else linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/NYASAR"+parameter
 //END build link #GetURLlinkuntuk
