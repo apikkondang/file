@@ -22,6 +22,7 @@ else if(linkAN == "arif" || linkAN == "a017") linkTrackAN = "https://dashboard.s
 else if(linkAN == "bagus" || linkAN == "a018") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/BAGUS"+parameter
 else if(linkAN == "verel" || linkAN == "a019") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/VEREL"+parameter
 else if(linkAN == "maman" || linkAN == "a020") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/MAMAN"+parameter
+else if(linkAN == "dudi" || linkAN == "a021") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/DUDI"+parameter
 else if(linkAN == "NAMAorangBARUtanpaSpasiHURUFkecilSEMUA" || linkAN == "kode0000") linkTrackAN = "LINKtrackingORANGbaru"+parameter
 else linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/NYASAR"+parameter
 //END build link #GetURLlinkuntuk
