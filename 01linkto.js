@@ -25,6 +25,9 @@ else if(linkAN == "maman" || linkAN == "a020") linkTrackAN = "https://dashboard.
 else if(linkAN == "dudi" || linkAN == "a021") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/DUDI"+parameter
 else if(linkAN == "endra" || linkAN == "a022") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/ENDRA"+parameter
 else if(linkAN == "wanda" || linkAN == "a023") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/WANDA"+parameter
+else if(linkAN == "sigit" || linkAN == "a024") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/SIGIT"+parameter
+else if(linkAN == "sendi" || linkAN == "a025") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/SENDI"+parameter
+else if(linkAN == "karisa" || linkAN == "a026") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/KARISA"+parameter
 else if(linkAN == "NAMAorangBARUtanpaSpasiHURUFkecilSEMUA" || linkAN == "kode0000") linkTrackAN = "LINKtrackingORANGbaru"+parameter
 else linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/NYASAR"+parameter
 //END build link #GetURLlinkuntuk
