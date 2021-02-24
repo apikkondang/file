@@ -28,6 +28,7 @@ else if(linkAN == "wanda" || linkAN == "a023") linkTrackAN = "https://dashboard.
 else if(linkAN == "sigit" || linkAN == "a024") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/SIGIT"+parameter
 else if(linkAN == "sendi" || linkAN == "a025") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/SENDI"+parameter
 else if(linkAN == "karisa" || linkAN == "a026") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/KARISA"+parameter
+else if(linkAN == "tito" || linkAN == "a027") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/TITO"+parameter
 else if(linkAN == "NAMAorangBARUtanpaSpasiHURUFkecilSEMUA" || linkAN == "kode0000") linkTrackAN = "LINKtrackingORANGbaru"+parameter
 else linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/NYASAR"+parameter
 //END build link #GetURLlinkuntuk
