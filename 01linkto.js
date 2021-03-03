@@ -30,6 +30,7 @@ else if(linkAN == "sendi" || linkAN == "a025") linkTrackAN = "https://dashboard.
 else if(linkAN == "karisa" || linkAN == "a026") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/KARISA"+parameter
 else if(linkAN == "tito" || linkAN == "a027") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/TITO"+parameter
 else if(linkAN == "andi" || linkAN == "a028") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/ANDI"+parameter
+else if(linkAN == "dita" || linkAN == "a029") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/DITA"+parameter
 else if(linkAN == "NAMAorangBARUtanpaSpasiHURUFkecilSEMUA" || linkAN == "kode0000") linkTrackAN = "LINKtrackingORANGbaru"+parameter
 else linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/NYASAR"+parameter
 //END build link #GetURLlinkuntuk
