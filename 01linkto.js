@@ -10,6 +10,7 @@ else if(linkAN == "janhadi" || linkAN == "a005") linkTrackAN = "https://dashboar
 else if(linkAN == "rizki" || linkAN == "a006") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/RIZKI"+parameter
 else if(linkAN == "wasmin" || linkAN == "a007") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/WASMIN"+parameter
 else if(linkAN == "asep" || linkAN == "a008") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/ASEP"+parameter
+else if(linkAN == "ciki" || linkAN == "a008a") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/CIKI/ASEP"+parameter
 else if(linkAN == "sihaloho" || linkAN == "a009") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/SIHALOHO"+parameter
 else if(linkAN == "darsono" || linkAN == "a010") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/DARSONO"+parameter
 else if(linkAN == "dirga" || linkAN == "a011") linkTrackAN = "https://dashboard.sporadise.com/track/smartlink/source/DIRGA"+parameter        
