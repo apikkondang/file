@@ -2,7 +2,7 @@
 var linkAN = linkuntuk;
 var linkTR = "https://dashboard.sporadise.com"
 
-if(lander == "kuis") linkTrackAN = 'https://storemaan22.easy.co/?linkuntuk='+linkuntuk+'&pixel='+pixel+'&lang='+lang+'&produk='+produk+'&subacc='+img+'&subacc2='+account+'&subacc3='+adcopy+'&subacc4=dirQUISyes&subacc5='+urlcustomfile+'&subacc6='+tanggal+'&plp='+plp
+if(lander == "kuis") linkTrackAN = 'https://www.technolect.org/?linkuntuk='+linkuntuk+'&pixel='+pixel+'&lang='+lang+'&produk='+produk+'&subacc='+img+'&subacc2='+account+'&subacc3='+adcopy+'&subacc4=dirQUISyes&subacc5='+urlcustomfile+'&subacc6='+tanggal+'&plp='+plp
 else if(linkAN  == "apik"       || linkAN == "a001")    linkTrackAN = linkTR+"/track/smartlink/source/APIK"+parameter
 else if(linkAN  == "trisno"     || linkAN == "a002")    linkTrackAN = linkTR+"/track/smartlink/source/TRISNO"+parameter
 else if(linkAN  == "bmg"        || linkAN == "a003")    linkTrackAN = linkTR+"/track/smartlink/source/BMG"+parameter
