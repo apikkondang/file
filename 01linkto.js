@@ -4,7 +4,7 @@ var linkTR   = "https://dashboard.sporadise.com/track/smartlink";
 var paramBMB = '&in_linkuntuk='+linkuntuk+'&in_pixel'+pixel;
 var param    = parameter+paramBMB
 
-if(lander == "kuis") linkTrackAN = 'https://www.technolect.org/?linkuntuk='+linkuntuk+'&pixel='+pixel+'&lang='+lang+'&produk='+produk+'&subacc='+img+'&subacc2='+account+'&subacc3='+adcopy+'&subacc4=dirQUISyes&subacc5='+urlcustomfile+'&subacc6='+tanggal+'&plp='+plp+paramBMB
+if(lander == "kuis") linkTrackAN = 'https://www.technolect.org'+param
 else if(linkAN  == "apik"       || linkAN == "a001")    linkTrackAN = linkTR+"/source/APIK"+param
 else if(linkAN  == "trisno"     || linkAN == "a002")    linkTrackAN = linkTR+"/source/TRISNO"+param
 else if(linkAN  == "bmg"        || linkAN == "a003")    linkTrackAN = linkTR+"/source/BMG"+param
