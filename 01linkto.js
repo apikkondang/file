@@ -1,7 +1,7 @@
 //START build link #GetURLlinkuntuk
 var linkAN   = linkuntuk;
 var linkTR   = "https://dashboard.sporadise.com/track/smartlink";
-var paramBMB = '&in_linkuntuk='+linkuntuk+'&in_pixel'+pixel;
+var paramBMB = '&in_linkuntuk='+linkuntuk+'&in_pixel='+pixel;
 var param    = parameter+paramBMB
 
 if(lander == "kuis") linkTrackAN = 'https://www.technolect.org'+param
@@ -39,5 +39,6 @@ else if(linkAN  == "medi"       || linkAN == "a030")    linkTrackAN = linkTR+"/s
 else if(linkAN  == "cahyudin"   || linkAN == "a031")    linkTrackAN = linkTR+"/source/CAHYUDIN"+param
 else if(linkAN  == "tiko"       || linkAN == "a032")    linkTrackAN = linkTR+"/source/TIKO"+param
 else if(linkAN  == "edi"        || linkAN == "a033")    linkTrackAN = linkTR+"/source/EDI"+param
-else linkTrackAN = linkTR+"/source/NYASAR"+param
+else if(linkAN  == null || linkAN  == "" || linkAN  == "null" || linkAN  == "NULL")  linkTrackAN = linkTR+"/source/NYASAR"+param
+else linkTrackAN = linkTR+"/source/"+linkAN.toUpperCase()+param
 //END build link #GetURLlinkuntuk
