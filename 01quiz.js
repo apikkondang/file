@@ -9,6 +9,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Q1 = "Czy łatwo się podniecasz, ale często najpierw wytryskujesz❓"    
         else if(bhs == "ES")    var Q1 = "¿Te excitas fácilmente pero a menudo eyacula primero?"    
         else if(bhs == "PH")    var Q1 = "Madali ka bang mapukaw ngunit madalas makaranas ng wala sa panahon na bulalas?"    
+        else if(bhs == "CL")    var Q1 = "CL1"    
         else                    var Q1 = "𝗔𝗽𝗮𝗸𝗮𝗵 𝗔𝗻𝗱𝗮 𝘀𝗲𝗿𝗶𝗻𝗴 𝗺𝘂𝗱𝗮𝗵 𝘁𝗲𝗿𝗮𝗻𝗴𝘀𝗮𝗻𝗴 𝗻𝗮𝗺𝘂𝗻 𝘀𝗲𝗿𝗶𝗻𝗴 𝗽𝘂𝗹𝗮 𝗺𝘂𝗻𝗰𝗿𝗮𝘁 𝗱𝘂𝗹𝘂𝗮𝗻❓"    
 
         if(bhs == "ID")         var Q2 = "𝗔𝗽𝗮𝗸𝗮𝗵 𝗮𝗻𝗱𝗮 𝗯𝗲𝗿𝗮𝗻𝗴𝗴𝗮𝗽𝗮𝗻 𝗯𝗮𝗵𝘄𝗮 𝗻𝗶𝗸𝗺𝗮𝘁 𝘆𝗮𝗻𝗴 𝗻𝘂𝗺𝗽𝗮𝗻𝗴 𝗹𝗲𝘄𝗮𝘁 𝗮𝗱𝗮𝗹𝗮𝗵 𝗱𝗮𝗺𝗽𝗮𝗸 𝗱𝗮𝗿𝗶 𝗽𝗲𝗻𝗶𝘀 𝘆𝗮𝗻𝗴 𝗸𝘂𝗿𝗮𝗻𝗴 𝗽𝗮𝗻𝗷𝗮𝗻𝗴❓"
@@ -20,6 +21,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Q2 = "Czy uważasz, że chwilowa przyjemność jest wynikiem zbyt krótkiego penisa❓"  
         else if(bhs == "ES")    var Q2 = "¿Crees que el placer momentáneo es el resultado de un pene demasiado corto?"  
         else if(bhs == "PH")    var Q2 = "Sa palagay mo ba ang hindi kasiya-siyang kasarian ay ang resulta ng isang ari na masyadong maikli?"  
+        else if(bhs == "CL")    var Q2 = "CL2"  
         else                    var Q2 = "𝗔𝗽𝗮𝗸𝗮𝗵 𝗮𝗻𝗱𝗮 𝗯𝗲𝗿𝗮𝗻𝗴𝗴𝗮𝗽𝗮𝗻 𝗯𝗮𝗵𝘄𝗮 𝗻𝗶𝗸𝗺𝗮𝘁 𝘆𝗮𝗻𝗴 𝗻𝘂𝗺𝗽𝗮𝗻𝗴 𝗹𝗲𝘄𝗮𝘁 𝗮𝗱𝗮𝗹𝗮𝗵 𝗱𝗮𝗺𝗽𝗮𝗸 𝗱𝗮𝗿𝗶 𝗽𝗲𝗻𝗶𝘀 𝘆𝗮𝗻𝗴 𝗸𝘂𝗿𝗮𝗻𝗴 𝗽𝗮𝗻𝗷𝗮𝗻𝗴❓"    
         
         if(bhs == "ID")         var Q3 = "𝗦𝗲𝘁𝘂𝗷𝘂𝗸𝗮𝗵 𝗔𝗻𝗱𝗮 𝗯𝗮𝗵𝘄𝗮 𝗽𝗲𝗻𝗶𝘀 𝘆𝗮𝗻𝗴 𝗯𝗲𝘀𝗮𝗿 𝗸𝘂𝗮𝘁 𝗱𝗮𝗻 𝗽𝗮𝗻𝗷𝗮𝗻𝗴 𝗮𝗸𝗮𝗻 𝗹𝗲𝗯𝗶𝗵 𝗺𝗮𝗺𝗽𝘂 𝗺𝗲𝗺𝘂𝗮𝘀𝗸𝗮𝗻 𝘃𝗮𝗴𝗶𝗻𝗮 𝘆𝗮𝗻𝗴 𝗸𝗲𝗹𝗮𝗽𝗮𝗿𝗮𝗻❓"
@@ -31,6 +33,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Q3 = "Czy zgodziłabyś się, że duży, silny i długi penis jest w stanie lepiej zaspokoić głodną pochwę❓"
         else if(bhs == "ES")    var Q3 = "¿Estaría de acuerdo en que un pene grande, fuerte y largo puede satisfacer mejor una vagina hambrienta?"
         else if(bhs == "PH")    var Q3 = "Sumasang-ayon ka ba na ang isang malaki, malakas at mahabang titi ay mas mahusay para sa kasiyahan ang ari?"
+        else if(bhs == "CL")    var Q3 = "CL3"
         else                    var Q3 = "𝗦𝗲𝘁𝘂𝗷𝘂𝗸𝗮𝗵 𝗔𝗻𝗱𝗮 𝗯𝗮𝗵𝘄𝗮 𝗽𝗲𝗻𝗶𝘀 𝘆𝗮𝗻𝗴 𝗯𝗲𝘀𝗮𝗿 𝗸𝘂𝗮𝘁 𝗱𝗮𝗻 𝗽𝗮𝗻𝗷𝗮𝗻𝗴 𝗮𝗸𝗮𝗻 𝗹𝗲𝗯𝗶𝗵 𝗺𝗮𝗺𝗽𝘂 𝗺𝗲𝗺𝘂𝗮𝘀𝗸𝗮𝗻 𝘃𝗮𝗴𝗶𝗻𝗮 𝘆𝗮𝗻𝗴 𝗸𝗲𝗹𝗮𝗽𝗮𝗿𝗮𝗻❓"    
 
         if(bhs == "ID")         var Q4 = "𝗔𝗽𝗮𝗸𝗮𝗵 𝗮𝗻𝗱𝗮 𝘀𝗲𝗻𝗮𝗻𝗴 𝗷𝗶𝗸𝗮 𝘂𝗸𝘂𝗿𝗮𝗻 𝗽𝗲𝗻𝗶𝘀 𝗔𝗻𝗱𝗮 𝗯𝗲𝗿𝘁𝗮𝗺𝗯𝗮𝗵 𝗯𝗲𝘀𝗮𝗿 𝗱𝗮𝗻 𝗽𝗮𝗻𝗷𝗮𝗻𝗴 𝘀𝗲𝗰𝗮𝗿𝗮 𝗽𝗲𝗿𝗺𝗮𝗻𝗲𝗻❓"
@@ -42,6 +45,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Q4 = "Czy chciałbyś, żeby twój penis był trwale większy i dłuższy❓"
         else if(bhs == "ES")    var Q4 = "¿Le gustaría que su pene fuera permanentemente más grande y más largo?"
         else if(bhs == "PH")    var Q4 = "Nais mo bang ang iyong ari ng lalaki ay permanenteng mas malaki at mas mahaba?"
+        else if(bhs == "CL")    var Q4 = "CL4"
         else                    var Q4 = "𝗔𝗽𝗮𝗸𝗮𝗵 𝗮𝗻𝗱𝗮 𝘀𝗲𝗻𝗮𝗻𝗴 𝗷𝗶𝗸𝗮 𝘂𝗸𝘂𝗿𝗮𝗻 𝗽𝗲𝗻𝗶𝘀 𝗔𝗻𝗱𝗮 𝗯𝗲𝗿𝘁𝗮𝗺𝗯𝗮𝗵 𝗯𝗲𝘀𝗮𝗿 𝗱𝗮𝗻 𝗽𝗮𝗻𝗷𝗮𝗻𝗴 𝘀𝗲𝗰𝗮𝗿𝗮 𝗽𝗲𝗿𝗺𝗮𝗻𝗲𝗻❓"    
 
         if(bhs == "ID")         var Q5 = "𝗦𝗮𝗮𝘁 𝗽𝗲𝗻𝗶𝘀 𝗸𝗮𝗺𝘂 𝗯𝗲𝗿𝘁𝗮𝗺𝗯𝗮𝗵 𝗯𝗲𝘀𝗮𝗿, 𝗯𝗲𝗿𝘀𝗲𝗱𝗶𝗮𝗸𝗮𝗵 𝗸𝗮𝗺𝘂 𝘂𝗻𝘁𝘂𝗸 𝘁𝗶𝗱𝗮𝗸 𝗺𝗲𝗻𝘆𝗮𝗹𝗮𝗵𝗴𝘂𝗻𝗮𝗸𝗮𝗻𝗻𝘆𝗮❓"
@@ -53,6 +57,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Q5 = "Kiedy twój penis jest duży, obiecaj, że go nie nadużyjesz❓❗"
         else if(bhs == "ES")    var Q5 = "Cuando tu pene sea grande, promete no abusar de él."
         else if(bhs == "PH")    var Q5 = "Kapag malaki ang iyong ari ng lalaki, pangakong hindi ito aabuso."
+        else if(bhs == "CL")    var Q5 = "CL5"
         else                    var Q5 = "𝗦𝗮𝗮𝘁 𝗽𝗲𝗻𝗶𝘀 𝗸𝗮𝗺𝘂 𝗯𝗲𝗿𝘁𝗮𝗺𝗯𝗮𝗵 𝗯𝗲𝘀𝗮𝗿, 𝗯𝗲𝗿𝘀𝗲𝗱𝗶𝗮𝗸𝗮𝗵 𝗸𝗮𝗺𝘂 𝘂𝗻𝘁𝘂𝗸 𝘁𝗶𝗱𝗮𝗸 𝗺𝗲𝗻𝘆𝗮𝗹𝗮𝗵𝗴𝘂𝗻𝗮𝗸𝗮𝗻𝗻𝘆𝗮❓"    
 
     //text Lainnya
@@ -65,6 +70,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Qiya = "TAK"
         else if(bhs == "ES")    var Qiya = "SI"
         else if(bhs == "PH")    var Qiya = "Oo"
+        else if(bhs == "CL")    var Qiya = "SÍ"
         else                    var Qiya = "𝗬𝗔"    
 
         if(bhs == "ID")         var Qtidak = "𝗧𝗜𝗗𝗔𝗞"
@@ -76,6 +82,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Qtidak = "NIE"
         else if(bhs == "ES")    var Qtidak = "NO"
         else if(bhs == "PH")    var Qtidak = "HINDI"
+        else if(bhs == "CL")    var Qtidak = "NO"
         else                    var Qtidak = "𝗧𝗜𝗗𝗔𝗞"   
 
         if(bhs == "ID")         var Qperhatian = "＊ＰＥＲＨＡＴＩＡＮ＊"
@@ -87,6 +94,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Qperhatian = "* UWAGA *"
         else if(bhs == "ES")    var Qperhatian = "* ATENCIÓN *"
         else if(bhs == "PH")    var Qperhatian = "* Pansin *"
+        else if(bhs == "CL")    var Qperhatian = "* ATENCIÓN *"
         else                    var Qperhatian = "＊ＰＥＲＨＡＴＩＡＮ＊"              
   
         if(bhs == "ID")         var Qpastikan = "<span style='color:red'> 𝗣𝗔𝗦𝗧𝗜𝗞𝗔𝗡 𝗨𝗠𝗨𝗥 𝗔𝗡𝗗𝗔 𝟭𝟴+ <\/b><\/span>"
@@ -98,6 +106,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Qpastikan = "<span style='color:red'>UPEWNIJ SIĘ, ŻE JESTEŚ DOROSŁY<\/b><\/span>" 
         else if(bhs == "ES")    var Qpastikan = "<span style='color:red'>ASEGÚRESE DE SER ADULTO<\/b><\/span>" 
         else if(bhs == "PH")    var Qpastikan = "<span style='color:red'>Siguraduhin na ikaw ay isang matanda<\/b><\/span>" 
+        else if(bhs == "CL")    var Qpastikan = "<span style='color:red'>Asegúrate de que eres un adulto<\/b><\/span>" 
         else                    var Qpastikan = "<span style='color:red'> 𝗣𝗔𝗦𝗧𝗜𝗞𝗔𝗡 𝗨𝗠𝗨𝗥 𝗔𝗡𝗗𝗔 𝟭𝟴+ <\/b><\/span>"            
         
         if(bhs == "ID")         var QOKE = "OKE"
@@ -109,6 +118,7 @@ var bhs = lang;
         else if(bhs == "PL")    var QOKE = "okej"
         else if(bhs == "ES")    var QOKE = "bueno"
         else if(bhs == "PH")    var QOKE = "well"
+        else if(bhs == "CL")    var QOKE = "OKEY"
         else                    var QOKE = "OKE"               
     
         if(bhs == "ID")         var Qkhusus = "𝗞𝗵𝘂𝘀𝘂𝘀 𝟭𝟴+"
@@ -120,6 +130,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Qkhusus = "Tylko dla dorosłych"
         else if(bhs == "ES")    var Qkhusus = "Solo para adultos"
         else if(bhs == "PH")    var Qkhusus = "Para sa mga matatanda lamang"
+        else if(bhs == "CL")    var Qkhusus = "ESPECIAL 18+"
         else                    var Qkhusus = "𝗞𝗵𝘂𝘀𝘂𝘀 𝟭𝟴+"            
         
         if(bhs == "ID")         var Qbaiklah = "BAIKLAH!"
@@ -131,6 +142,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Qbaiklah = "W PORZĄDKU!"
         else if(bhs == "ES")    var Qbaiklah = "¡¡BUENO!!"
         else if(bhs == "PH")    var Qbaiklah = "MAHUSAY!!"
+        else if(bhs == "CL")    var Qbaiklah = "BIEN!!"
         else                    var Qbaiklah  = "BAIKLAH!"         
         
         if(bhs == "ID")         var Qberdasarkan = "𝗕𝗲𝗿𝗱𝗮𝘀𝗮𝗿𝗸𝗮𝗻 𝗷𝗮𝘄𝗮𝗯𝗮𝗻 𝗸𝗮𝗺𝘂, 𝗸𝗮𝗺𝗶 𝘀𝗮𝗿𝗮𝗻𝗸𝗮𝗻 𝗸𝗮𝗺𝘂 𝗺𝗲𝗻𝗰𝗼𝗯𝗮 𝗽𝗿𝗼𝗱𝘂𝗸 𝗽𝗲𝗺𝗯𝗲𝘀𝗮𝗿𝗮𝗻 𝗽𝗲𝗻𝗶𝘀 𝗽𝗮𝗹𝗶𝗻𝗴 𝗲𝗳𝗲𝗸𝘁𝗶𝗳 𝗶𝗻𝗶"
@@ -142,6 +154,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Qberdasarkan = "Na podstawie Twoich odpowiedzi zalecamy wypróbowanie najlepszych produktów na powiększenie penisa"
         else if(bhs == "ES")    var Qberdasarkan = "Según sus respuestas, le recomendamos que pruebe los mejores productos de alargamiento del pene."
         else if(bhs == "PH")    var Qberdasarkan = "Batay sa iyong mga sagot, inirerekumenda naming subukan mo ang pinakamahusay na mga produkto ng pagpapalaki ng ari ng lalaki."
+        else if(bhs == "CL")    var Qberdasarkan = "CL"
         else                    var Qberdasarkan = "𝗕𝗲𝗿𝗱𝗮𝘀𝗮𝗿𝗸𝗮𝗻 𝗷𝗮𝘄𝗮𝗯𝗮𝗻 𝗸𝗮𝗺𝘂, 𝗸𝗮𝗺𝗶 𝘀𝗮𝗿𝗮𝗻𝗸𝗮𝗻 𝗸𝗮𝗺𝘂 𝗺𝗲𝗻𝗰𝗼𝗯𝗮 𝗽𝗿𝗼𝗱𝘂𝗸 𝗽𝗲𝗺𝗯𝗲𝘀𝗮𝗿𝗮𝗻 𝗽𝗲𝗻𝗶𝘀 𝗽𝗮𝗹𝗶𝗻𝗴 𝗲𝗳𝗲𝗸𝘁𝗶𝗳 𝗶𝗻𝗶"            
         
         if(bhs == "ID")         var Qcatatan = "CATATAN!"
@@ -153,6 +166,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Qcatatan = "UWAGA!!"
         else if(bhs == "ES")    var Qcatatan = "¡¡ATENCIÓN!!"
         else if(bhs == "PH")    var Qcatatan = "Pansin!!"
+        else if(bhs == "CL")    var Qcatatan = "Nota!!"
         else                    var Qcatatan = "CATATAN!"              
            
         if(bhs == "ID")         var Qketika = "𝗞𝗲𝘁𝗶𝗸𝗮 𝗽𝗲𝗻𝗶𝘀 𝗸𝗮𝗺𝘂 𝘀𝘂𝗱𝗮𝗵 𝗯𝗲𝘀𝗮𝗿, 𝗸𝗮𝗺𝘂 𝗮𝗸𝗮𝗻 𝘀𝘂𝗹𝗶𝘁 𝘂𝗻𝘁𝘂𝗸 𝗺𝗲𝗻𝗴𝘂𝗯𝗮𝗵 𝘂𝗸𝘂𝗿𝗮𝗻𝗻𝘆𝗮 𝗺𝗲𝗻𝗷𝗮𝗱𝗶 𝗸𝗲𝗰𝗶𝗹 𝗸𝗲𝗺𝗯𝗮𝗹𝗶"
@@ -164,6 +178,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Qketika = "Kiedy twój penis jest duży, trudno będzie go przywrócić do małego."
         else if(bhs == "ES")    var Qketika = "Cuando su pene es grande, será difícil volverlo pequeño."
         else if(bhs == "PH")    var Qketika = "Kapag malaki ang iyong ari ng lalaki, mahihirapan itong gawing maliit."
+        else if(bhs == "CL")    var Qketika = "CL"
         else                    var Qketika = "𝗞𝗲𝘁𝗶𝗸𝗮 𝗽𝗲𝗻𝗶𝘀 𝗸𝗮𝗺𝘂 𝘀𝘂𝗱𝗮𝗵 𝗯𝗲𝘀𝗮𝗿, 𝗸𝗮𝗺𝘂 𝗮𝗸𝗮𝗻 𝘀𝘂𝗹𝗶𝘁 𝘂𝗻𝘁𝘂𝗸 𝗺𝗲𝗻𝗴𝘂𝗯𝗮𝗵 𝘂𝗸𝘂𝗿𝗮𝗻𝗻𝘆𝗮 𝗺𝗲𝗻𝗷𝗮𝗱𝗶 𝗸𝗲𝗰𝗶𝗹 𝗸𝗲𝗺𝗯𝗮𝗹𝗶"              
             
         if(bhs == "ID")         var Qteruskan = "𝗧𝗘𝗥𝗨𝗦𝗞𝗔𝗡"
@@ -175,6 +190,7 @@ var bhs = lang;
         else if(bhs == "PL")    var Qteruskan = "Kontyntynuj"
         else if(bhs == "ES")    var Qteruskan = "CONTINUAR"
         else if(bhs == "PH")    var Qteruskan = "PATULOY"
+        else if(bhs == "CL")    var Qteruskan = "SEGUIR"
         else                    var Qteruskan = "𝗧𝗘𝗥𝗨𝗦𝗞𝗔𝗡"              
         
 
